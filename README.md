@@ -76,7 +76,7 @@ Une application a été développée pour :
 
 Cet outil rend le projet accessible, pratique et réutilisable sur tout type de dataset ou cas d’usage.
 
-![Capture d’écran de l’app Streamlit](./Screenshot Application Streamlit.png)
+![Capture d’écran de l’app Streamlit](./ScreenshotApplicationStreamlit.png)
 
 
 ---
